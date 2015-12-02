@@ -9,7 +9,7 @@ cd /var/www
 wget https://github.com/PolymerElements/polymer-starter-kit/releases/download/v1.2.0/polymer-starter-kit-1.2.0.zip
 unzip polymer-starter-kit-1.2.0.zip
 cd polymer-starter-kit-1.2.0
-npm install -g gulp bower
+npm install -g gulp bower firebase-tools
 npm install
 bower update
 npm update
